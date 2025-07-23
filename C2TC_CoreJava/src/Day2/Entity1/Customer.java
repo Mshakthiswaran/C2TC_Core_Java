@@ -5,12 +5,13 @@ public class Customer {
 	 private String cname;
 	 private String city;
 	  
-	 
+	 //default
 	 public Customer() {
 		 this.cid =100;
 		 this.cname="Naruto";
 		 this.city ="hidden leef";
 	 }
+	 //parameter Constructor
 	 public Customer(int cid,String cname,String city) {
 		 this.cid =cid;
 		 this.cname=cname;
