@@ -46,7 +46,7 @@ public class Commission {
         } else {
             commission = 0;
         }
-
+      
         // Output
         System.out.println("Name: " + name);
         System.out.println("Sales Amount: " + salesAmount);

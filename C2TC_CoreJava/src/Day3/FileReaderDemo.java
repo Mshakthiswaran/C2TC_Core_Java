@@ -23,7 +23,7 @@ public class FileReaderDemo {
 		String line = br.readLine();
 		System.out.println(line);
 		
-		While(( line = br.readLine())! = null)
+		//While(( line = br.readLine())! = null)
 		
 	}
 }
