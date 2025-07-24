@@ -1,4 +1,3 @@
-
 package com.tnsif.dayfive.dailyWork.hierarchicalinheritance;
 
 public class Student extends Person
