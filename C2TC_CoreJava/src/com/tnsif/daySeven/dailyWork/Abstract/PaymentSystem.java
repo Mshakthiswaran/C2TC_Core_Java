@@ -1,4 +1,4 @@
-package com.tnsif.daySix.dailyWork.Abstract;
+package com.tnsif.daySeven.dailyWork.Abstract;
 abstract class PaymentGateway{
 		public abstract void paymentProcess(double amt);
 		public void connectToPayment() {
