@@ -9,4 +9,4 @@ public class FinalMethodClassTest extends FinalMethodClass {
 			 */
 		   
 	}
-}
+

@@ -18,5 +18,8 @@ public class Addition {
 		return a+b;
 	}
 	
+	public void add(int a, String b) {
+		System.out.println(""+a+""+b);
+	}
 	
 }
