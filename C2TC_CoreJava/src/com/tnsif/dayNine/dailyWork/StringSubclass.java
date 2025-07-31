@@ -1,5 +1,5 @@
 
-package com.tnsif.dayNine;
+package com.tnsif.dayNine.dailyWork;
 
 public class StringSubclass extends StringComparision {
 
