@@ -1,11 +1,11 @@
 package com.tnsif.daySeven.dailyWork.overriding;
 
 public class RBI {
-	{
+	
 		public float getRateOfInterest() {
-			return 6.7f;
+			return 6;
 		}
 
 	}
 
-}
+
