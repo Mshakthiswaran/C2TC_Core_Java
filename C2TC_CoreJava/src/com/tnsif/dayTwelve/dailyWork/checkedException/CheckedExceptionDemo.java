@@ -8,5 +8,5 @@ public static void main(String[]args) {
 	}catch(IOException e){
 		System.out.println("An error occurred while reading input: "+ e.getMessage());
 	}
-}
+  }
 }
